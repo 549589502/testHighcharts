@@ -12,7 +12,7 @@ import stockInit from "highcharts/modules/stock";
 stockInit(Highchart);
 Vue.use(HighchartsVue);
 
-
+import './assets/css.css'
 
 new Vue({
   router,
